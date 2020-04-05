@@ -5,7 +5,7 @@ Make a new directory ->
 mkdir scrapping
 cd scrapping
 
-Initializa the application with the package.json file ->
+Initialize the application with the package.json file ->
 npm init
 
 Install the dependencies using the following command ->
